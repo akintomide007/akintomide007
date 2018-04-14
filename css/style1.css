@@ -1,0 +1,46 @@
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 150;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    color: black;
+}
+h3 {
+    font-size: 48px;
+}
+
+h4 {
+    font-family: 'Montserrat', sans-serif;
+   
+    color: #F63419;
+}
+h4 {
+    font-size: 24px;
+}
+.row {
+  width: 94%;
+  max-width: 1170px;
+  margin: 0 auto;
+}
+
+.work {
+    position: relative;
+    padding-left: 20px;
+	padding-right: 20px;
+	float: left;
+	left: 25px;
+    right: 25px;
+    top: 50%;
+    text-align: center;
+	width: 30%;
+}
+
+
+
+
+
+
+
+
+
+
